@@ -12,7 +12,7 @@ This template aims to (by design!):
 - <span class="emoji">🌍</span> handle multi-lingual content (Polish letters, etc),
 - <span class="emoji">📑</span> exemplify a robust BibLaTeX-based bibliography setup,
 - <span class="emoji">📐</span> provide reasonable defaults for line spacing, font sizes, margins, etc.,
-- <span class="emoji">🐧🍏🪟</span> reply on tools available on all popular systems.
+- <span class="emoji">🐧🍏🪟</span> rely on tools available on all popular systems.
 
 ## <span class="emoji">🚀</span> How to use it
 
